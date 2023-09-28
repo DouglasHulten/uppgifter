@@ -1,0 +1,1 @@
+Gjorde en funktion som kan bestämma om ett ordet befinner sig i meningen och i början.

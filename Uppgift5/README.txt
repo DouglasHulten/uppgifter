@@ -1,0 +1,1 @@
+Gjorde en array och en funktion som bestämmer det första talet efter 10 och säger index för talet i arrayen
